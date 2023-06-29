@@ -17,7 +17,6 @@
 ![Hasi94](https://github-readme-stats.vercel.app/api?username=hasi94&count_private=true&hide=stars&include_all_commits=true&line_height=24&show_icons=true&theme=algolia)
 ![Hasi94](https://github-readme-stats.vercel.app/api/top-langs/?username=hasi94&layout=compact&langs_count=6&theme=algolia)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hasi94&" alt="hasi94" /></p>
-![Hasi94](https://github-readme-stats.vercel.app/api/wakatime?username=hasi94&layout=default&langs_count=8&theme=algolia&custom_title=Other%20Stats&v=2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
